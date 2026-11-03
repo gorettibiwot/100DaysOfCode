@@ -1,13 +1,10 @@
 # 100 Days of Code: Data Analyst / Data Engineer Track
 
-**Rules:** 1 hour a day. Type the code yourself. Log each day in `log.md`. If you miss a day, restart the next day.
-**To tick off:** change `[ ]` to `[x]` and save (commit) the file.
-
 ## Phase 1: Python Fundamentals (Days 1-20)
-- [ ] Day 1: Set up Jupyter, GitHub repo, first `print()`. Project: Band name generator
+- [ ] Day 1: Project: Band name generator
 - [ ] Day 2: Data types, strings, math. Project: Tip calculator
 - [ ] Day 3: Conditionals (`if`/`else`). Project: Treasure Island game
-- [ ] Day 4: Randomisation and lists. Project: Rock Paper Scissors
+- [ ] Day 4: Randomization and lists. Project: Rock Paper Scissors
 - [ ] Day 5: Loops. Project: Password generator
 - [ ] Day 6: Functions. Practice exercises
 - [ ] Day 7: Project: Hangman
