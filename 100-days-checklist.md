@@ -1,7 +1,7 @@
 # 100 Days of Code: Data Analyst / Data Engineer Track
 
 ## Phase 1: Python Fundamentals (Days 1-20)
-- [ ] Day 1: Project: Band name generator
+- [x] Day 1: Project: Band name generator
 - [ ] Day 2: Data types, strings, math. Project: Tip calculator
 - [ ] Day 3: Conditionals (`if`/`else`). Project: Treasure Island game
 - [ ] Day 4: Randomization and lists. Project: Rock Paper Scissors
