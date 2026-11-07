@@ -3,7 +3,7 @@
 ## Phase 1: Python Fundamentals (Days 1-20)
 - [x] Day 1: Project: Band name generator
 - [x] Day 2: Data types, strings, math. Project: Tip calculator
-- [ ] Day 3: Conditionals (`if`/`else`). Project: Treasure Island game
+- [x] Day 3: Conditionals (`if`/`else`). Project: Treasure Island game
 - [ ] Day 4: Randomization and lists. Project: Rock Paper Scissors
 - [ ] Day 5: Loops. Project: Password generator
 - [ ] Day 6: Functions. Practice exercises
