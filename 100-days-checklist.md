@@ -4,7 +4,7 @@
 - [x] Day 1: Project: Band name generator
 - [x] Day 2: Data types, strings, math. Project: Tip calculator
 - [x] Day 3: Conditionals (`if`/`else`). Project: Treasure Island game
-- [ ] Day 4: Randomization and lists. Project: Rock Paper Scissors
+- [x] Day 4: Randomization and lists. Project: Rock Paper Scissors
 - [ ] Day 5: Loops. Project: Password generator
 - [ ] Day 6: Functions. Practice exercises
 - [ ] Day 7: Project: Hangman
@@ -14,7 +14,7 @@
 - [ ] Day 11: Project: Blackjack
 - [ ] Day 12: Scope. Project: Number guessing game
 - [ ] Day 13: Debugging. Fix buggy code
-- [ ] Day 14: Project: Higher/Lower game
+- [ ] Day 14: Project: Higher/Lower gamehttps://github.com/gorettibiwot/100DaysOfCode/edit/main/100-days-checklist.md
 - [ ] Day 15: Classes and objects. Project: Coffee machine
 - [ ] Day 16: More OOP. Project: Quiz game
 - [ ] Day 17: Catch-up and review
