@@ -5,7 +5,7 @@
 - [x] Day 2: Data types, strings, math. Project: Tip calculator
 - [x] Day 3: Conditionals (`if`/`else`). Project: Treasure Island game
 - [x] Day 4: Randomization and lists. Project: Rock Paper Scissors
-- [ ] Day 5: Loops. Project: Password generator
+- [x] Day 5: Loops. Project: Password generator
 - [ ] Day 6: Functions. Practice exercises
 - [ ] Day 7: Project: Hangman
 - [ ] Day 8: Function inputs. Project: Caesar cipher
