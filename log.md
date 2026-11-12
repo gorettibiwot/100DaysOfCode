@@ -4,3 +4,4 @@ Done with day 03. I covered control flow topic:the boolean expressions and if/el
 Day 4: learned random.choice, lists, indexing, and enumerate/zip/map/filter. Built Rock Paper Scissors. Tested all 9 outcomes with a fixed computer choice.
 Day 5: learned for loops, range, and the accumulator pattern. Did the practice exercises. Password generator still to do.
 Day 5: revised a little on loops. Built the password generator (easy and hard versions)
+Day 6 done. Learnt functions in python.
