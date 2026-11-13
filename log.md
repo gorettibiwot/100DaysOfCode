@@ -5,3 +5,4 @@ Day 4: learned random.choice, lists, indexing, and enumerate/zip/map/filter. Bui
 Day 5: learned for loops, range, and the accumulator pattern. Did the practice exercises. Password generator still to do.
 Day 5: revised a little on loops. Built the password generator (easy and hard versions)
 Day 6 done. Learnt functions in python.
+Day 7 was the hangman project, where I practiced everything I have learnt so far ie functions,loops, lists, if/else etc
