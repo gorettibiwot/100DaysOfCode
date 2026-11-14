@@ -7,8 +7,8 @@
 - [x] Day 4: Randomization and lists. Project: Rock Paper Scissors
 - [x] Day 5: Loops. Project: Password generator
 - [x] Day 6: Functions. Practice exercises
-- [ ] Day 7: Project: Hangman
-- [ ] Day 8: Function inputs. Project: Caesar cipher
+- [x] Day 7: Project: Hangman
+- [x] Day 8: Function inputs. Project: Caesar cipher
 - [ ] Day 9: Dictionaries. Project: Secret auction
 - [ ] Day 10: Functions with outputs. Project: Calculator
 - [ ] Day 11: Project: Blackjack
