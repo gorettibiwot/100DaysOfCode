@@ -6,3 +6,4 @@ Day 5: learned for loops, range, and the accumulator pattern. Did the practice e
 Day 5: revised a little on loops. Built the password generator (easy and hard versions)
 Day 6 done. Learnt functions in python.
 Day 7 was the hangman project, where I practiced everything I have learnt so far ie functions,loops, lists, if/else etc
+Day 8 was a small project on ceasar cipher
