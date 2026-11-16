@@ -9,7 +9,7 @@
 - [x] Day 6: Functions. Practice exercises
 - [x] Day 7: Project: Hangman
 - [x] Day 8: Function inputs. Project: Caesar cipher
-- [ ] Day 9: Dictionaries. Project: Secret auction
+- [x] Day 9: Dictionaries. Project: Secret auction
 - [ ] Day 10: Functions with outputs. Project: Calculator
 - [ ] Day 11: Project: Blackjack
 - [ ] Day 12: Scope. Project: Number guessing game
