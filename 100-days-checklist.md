@@ -10,7 +10,7 @@
 - [x] Day 7: Project: Hangman
 - [x] Day 8: Function inputs. Project: Caesar cipher
 - [x] Day 9: Dictionaries. Project: Secret auction
-- [ ] Day 10: Functions with outputs. Project: Calculator
+- [x] Day 10: Functions with outputs. Project: Calculator
 - [ ] Day 11: Project: Blackjack
 - [ ] Day 12: Scope. Project: Number guessing game
 - [ ] Day 13: Debugging. Fix buggy code
