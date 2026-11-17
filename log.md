@@ -8,3 +8,4 @@ Day 6 done. Learnt functions in python.
 Day 7 was the hangman project, where I practiced everything I have learnt so far ie functions,loops, lists, if/else etc
 Day 8 was a small project on ceasar cipher
 Day 9: Learnt dictionaries
+Day 10: Built a calculator
