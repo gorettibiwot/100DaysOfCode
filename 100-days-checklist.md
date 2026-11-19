@@ -11,7 +11,7 @@
 - [x] Day 8: Function inputs. Project: Caesar cipher
 - [x] Day 9: Dictionaries. Project: Secret auction
 - [x] Day 10: Functions with outputs. Project: Calculator
-- [ ] Day 11: Project: Blackjack
+- [x] Day 11: Project: Blackjack
 - [ ] Day 12: Scope. Project: Number guessing game
 - [ ] Day 13: Debugging. Fix buggy code
 - [ ] Day 14: Project: Higher/Lower gamehttps://github.com/gorettibiwot/100DaysOfCode/edit/main/100-days-checklist.md
