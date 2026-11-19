@@ -9,3 +9,4 @@ Day 7 was the hangman project, where I practiced everything I have learnt so far
 Day 8 was a small project on ceasar cipher
 Day 9: Learnt dictionaries
 Day 10: Built a calculator
+Day 11: built Blackjack.
