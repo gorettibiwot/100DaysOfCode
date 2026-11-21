@@ -10,3 +10,4 @@ Day 8 was a small project on ceasar cipher
 Day 9: Learnt dictionaries
 Day 10: Built a calculator
 Day 11: built Blackjack.
+Day 12: learny scope. built a number guessing game
