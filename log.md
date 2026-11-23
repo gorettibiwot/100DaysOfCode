@@ -10,4 +10,5 @@ Day 8 was a small project on ceasar cipher
 Day 9: Learnt dictionaries
 Day 10: Built a calculator
 Day 11: built Blackjack.
-Day 12: learny scope. built a number guessing game
+Day 12: learnt scope. built a number guessing game
+Day 13: debugging. Fixed 10 snippets.Missed the range boundary in #2 and the else problem in #9.
