@@ -13,7 +13,7 @@
 - [x] Day 10: Functions with outputs. Project: Calculator
 - [x] Day 11: Project: Blackjack
 - [x] Day 12: Scope. Project: Number guessing game
-- [ ] Day 13: Debugging. Fix buggy code
+- [x] Day 13: Debugging. Fix buggy code
 - [ ] Day 14: Project: Higher/Lower gamehttps://github.com/gorettibiwot/100DaysOfCode/edit/main/100-days-checklist.md
 - [ ] Day 15: Classes and objects. Project: Coffee machine
 - [ ] Day 16: More OOP. Project: Quiz game
